@@ -1,53 +1,52 @@
-# Hi there, I'm Masoud 👋
-### AI-Powered Software Developer & Automation Specialist
+# Hi, I'm Masoud 👋
 
-I build fast, scalable, and production-ready applications by combining **modern engineering workflows with cutting-edge AI orchestration**. Specializing in custom Telegram bots, web automation, data scrapers, and intuitive web dashboards.
+### Software Developer · Persian Business Applications · AI-Assisted Development
 
----
+I build practical web applications around financial and operational workflows: construction feasibility, treasury documents, purchase requests, and AI-assisted chart review.
 
-### 🚀 What I Bring to the Table
-- ⚡ **Rapid Development:** Delivering functional, tested, and reliable tools in record time.
-- 🤖 **Telegram & Discord Bots:** Custom crypto price trackers, business lead capture, alert systems, and automated community assistants.
-- 🕷️ **Web Scraping & Data Pipelines:** Automated extraction of web data into structured CSV, JSON, and Excel sheets using Python.
-- 📊 **Web Applications & Tools:** Clean, modern Single Page Applications (SPAs), financial calculators, and internal business dashboards.
-- 💳 **Crypto & Web3 Friendly:** Seamless collaboration with escrow platforms and crypto payouts (USDT / USDC).
+My focus is turning detailed business rules into clear Persian interfaces, structured data, useful reports, and maintainable software. I use AI tools to support implementation, review, and documentation, with validation appropriate to each project.
 
----
+## Selected work
 
-### 🛠️ Tech Stack & Tools
+| Project | What it demonstrates | Availability |
+| --- | --- | --- |
+| [PayOrder](https://github.com/msddipr1469/PayOrder) | Persian payment/receipt documents, cash and cheque schedules, Jalali dates, timelines, printing, and browser-based archiving | Public source; standalone prototype |
+| Benayar / CT-Benayar | Construction cost and land scenarios, project finance, member permissions, reports, and backup workflows | Private source; pilot-oriented application |
+| Payment.M | Treasury workflows, cash/cheque documents, invoice handling, archive search, and internal-network user management | Private source; internal application |
+| OrderBridge | Multi-business purchase requests, scoped roles, order conversations, spreadsheet import/export, and backup workflows | Private source; office pilot |
+| TradeMsd1469 | Chart-image input, server-side Gemini integration, visual annotations, position-sizing UI, and a local trading journal | Private source; educational prototype |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Read the [project summaries and technical evidence](PORTFOLIO.md). Private projects are described at a high level; their source and operational data are not published here.
 
----
+## Technologies used across these repositories
 
-### 💼 Featured Projects & Experience Highlights
+- **Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Persian RTL layouts, Jalali dates.
+- **Application services:** Node.js, Next.js API routes, PostgreSQL/PGlite, Supabase, and SQLite.
+- **Product workflows:** document printing, PDF text extraction, spreadsheet exchange, local drafts, backup and restore.
+- **Supporting tools:** Git, Docker configuration, Cloudflare Workers, and test suites in selected projects.
+- **AI integration:** Google Gemini API for an experimental chart-analysis interface.
 
-#### 🏢 Construction & Real-Estate Financial Analytics Platform
-- Architected and developed a full-scale web application for construction cost estimation, land valuation scenarios, and cash-flow analytics.
-- Integrated offline-capable local drafting mechanisms, reactive data sync, and dynamic scenario modeling.
-- **Technologies:** React, Next.js, Supabase, Responsive PWA Architecture.
+These are technologies represented in my projects, rather than a claim of equal expertise in every tool. Deployment status and validation vary by project.
 
-#### 📈 Crypto Price Alert & Monitoring Bots
-- Automated Telegram bot tracking real-time crypto prices across centralized and decentralized exchanges.
-- Features custom user alerts, threshold notifications, and 24/7 background monitoring with Python.
+## Collaboration
 
-#### 🔄 Automated Web Scrapers & Data Tools
-- Built robust scraping scripts handling anti-bot protections, structured parsing, and automatic export to Excel/Google Sheets.
+I'm interested in freelance and contract work involving:
 
----
+- Persian business dashboards and internal tools.
+- Financial document, reporting, and approval workflows.
+- Custom web applications and API integrations.
+- AI-assisted prototypes that can be evaluated against clear requirements.
 
-### 🤝 Let's Work Together!
-I am actively open for freelance projects, bot developments, and contract roles:
-- 💼 **Freelance Platforms:** Available on LaborX & Karlancer
-- 📩 **Direct Contact:** Feel free to open an issue or reach out directly for collaborations.
-- ⚡ **Payment Preferences:** Crypto (USDT / USDC) & Standard Escrows.
+Areas I want to develop further include automation bots and data pipelines. They are future directions, not completed portfolio projects listed here.
+
+For a project inquiry, open an issue in this [profile repository](https://github.com/msddipr1469/msddipr1469/issues). Please keep confidential information out of public issues.
 
 ---
-⭐ *From idea to production-ready software in days, not months.*
+
+## معرفی فارسی
+
+من مسعود هستم؛ توسعه‌دهنده نرم‌افزار با تمرکز بر وب‌اپلیکیشن‌های فارسی و فرایندهای مالی و عملیاتی کسب‌وکار. پروژه‌هایم شامل برآورد و تحلیل مالی ساخت‌وساز، دستور پرداخت و خزانه‌داری، درخواست خرید و سفارش‌گیری، و نمونه آموزشی بررسی نمودار با کمک هوش مصنوعی است.
+
+در کار روی این پروژه‌ها از TypeScript، JavaScript، React، Next.js، Node.js و پایگاه‌های داده استفاده کرده‌ام. رابط راست‌به‌چپ، تاریخ شمسی، گزارش چاپی، ورود و خروج اطلاعات و قواعد دسترسی از موضوع‌های اصلی کار من هستند.
+
+از ابزارهای هوش مصنوعی برای کمک به توسعه، بازبینی و مستندسازی استفاده می‌کنم. آماده همکاری در ساخت ابزارهای داخلی، داشبوردها و نرم‌افزارهای متناسب با نیاز کسب‌وکار هستم. پروژه‌های خصوصی در این صفحه فقط به‌صورت خلاصه معرفی شده‌اند؛ آمادگی بهره‌برداری و نتیجه آزمون هر پروژه باید جداگانه بررسی شود.
