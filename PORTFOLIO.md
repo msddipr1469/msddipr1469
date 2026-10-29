@@ -34,6 +34,20 @@ Repository review date: 2026-10-29. These summaries describe source and document
 
 **Limits:** The README contains both newer network-operation notes and an older statement that server authentication/database support is absent. Source modules show server functionality, but the documentation needs reconciliation before making deployment claims. No operational records, host details, or credentials are included here.
 
+**Independent home edition:** The private [generic-local branch](https://github.com/msddipr1469/Payment.M/tree/generic-local) has a Windows source installer, separate business data, local startup, and a fixed update branch. On 2026-10-29 its missing backup API was included in Git, 6 home-edition tests passed, TypeScript/build passed, and an isolated launch returned HTTP 200. The first installation requires internet; the actual home computer was not tested.
+
+## ProductCompare — catalogue and product comparison
+
+**Problem:** Reviewing catalogue information and comparing product options with traceable sources.
+
+**Implementation:** Python/Django and PostgreSQL with a Persian RTL JavaScript interface, PDF/XLSX/ZIP ingestion, background processing, local English OCR, reviewable source references, and spreadsheet reports.
+
+**Private source:** [ProductCompare](https://github.com/msddipr1469/ProductCompare). Includes the latest local application improvements and an installer for a fresh Windows home installation. Business databases, documents, credentials, and runtime files are excluded.
+
+**Validation on 2026-10-29:** 32 tests passed on isolated PostgreSQL. A new empty database was initialized, migrations applied, and HTTP health and empty catalogue responses verified. Python/PostgreSQL internet downloads and installation on the actual home PC were not executed.
+
+**Limits:** OCR and extracted specifications require human review. Comparison scores use recorded inputs and are not independent product-quality certification. The app is intended for local use.
+
 ## OrderBridge — purchase-request workflow
 
 **Problem:** Coordinating purchase requests and staff/customer communication across business contexts.
