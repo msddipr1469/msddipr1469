@@ -12,8 +12,9 @@ My focus is turning detailed business rules into clear Persian interfaces, struc
 | --- | --- | --- |
 | [PayOrder](https://github.com/msddipr1469/PayOrder) | Persian payment/receipt documents, cash and cheque schedules, Jalali dates, timelines, printing, and browser-based archiving | Public source; standalone prototype |
 | Benayar / CT-Benayar | Construction cost and land scenarios, project finance, member permissions, reports, and backup workflows | Private source; pilot-oriented application |
-| Payment.M | Treasury workflows, cash/cheque documents, invoice handling, archive search, and internal-network user management | Private source; internal application |
+| [Payment.M](https://github.com/msddipr1469/Payment.M/tree/generic-local) | Treasury documents, invoices, archive workflows, plus an independent Windows home edition with its own business data | Private source; office and home editions |
 | OrderBridge | Multi-business purchase requests, scoped roles, order conversations, spreadsheet import/export, and backup workflows | Private source; office pilot |
+| [ProductCompare](https://github.com/msddipr1469/ProductCompare) | Catalogue ingestion, reviewable source references, local English OCR, product comparison, and spreadsheet reports | Private source; Windows home installer |
 | TradeMsd1469 | Chart-image input, server-side Gemini integration, visual annotations, position-sizing UI, and a local trading journal | Private source; educational prototype |
 
 Read the [project summaries and technical evidence](PORTFOLIO.md). Private projects are described at a high level; their source and operational data are not published here.
@@ -21,7 +22,7 @@ Read the [project summaries and technical evidence](PORTFOLIO.md). Private proje
 ## Technologies used across these repositories
 
 - **Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Persian RTL layouts, Jalali dates.
-- **Application services:** Node.js, Next.js API routes, PostgreSQL/PGlite, Supabase, and SQLite.
+- **Application services:** Node.js, Next.js API routes, Python/Django, PostgreSQL/PGlite, Supabase, and SQLite.
 - **Product workflows:** document printing, PDF text extraction, spreadsheet exchange, local drafts, backup and restore.
 - **Supporting tools:** Git, Docker configuration, Cloudflare Workers, and test suites in selected projects.
 - **AI integration:** Google Gemini API for an experimental chart-analysis interface.
@@ -47,6 +48,6 @@ For a project inquiry, open an issue in this [profile repository](https://github
 
 من مسعود هستم؛ توسعه‌دهنده نرم‌افزار با تمرکز بر وب‌اپلیکیشن‌های فارسی و فرایندهای مالی و عملیاتی کسب‌وکار. پروژه‌هایم شامل برآورد و تحلیل مالی ساخت‌وساز، دستور پرداخت و خزانه‌داری، درخواست خرید و سفارش‌گیری، و نمونه آموزشی بررسی نمودار با کمک هوش مصنوعی است.
 
-در کار روی این پروژه‌ها از TypeScript، JavaScript، React، Next.js، Node.js و پایگاه‌های داده استفاده کرده‌ام. رابط راست‌به‌چپ، تاریخ شمسی، گزارش چاپی، ورود و خروج اطلاعات و قواعد دسترسی از موضوع‌های اصلی کار من هستند.
+در کار روی این پروژه‌ها از TypeScript، JavaScript، React، Next.js، Node.js، Python/Django و پایگاه‌های داده استفاده کرده‌ام. مقایسه‌گر کالا و کاتالوگ و نسخه مستقل دستور پرداخت، راهنمای نصب محلی در ویندوز دارند؛ سورس آن‌ها خصوصی است. رابط راست‌به‌چپ، تاریخ شمسی، گزارش چاپی، ورود و خروج اطلاعات و قواعد دسترسی از موضوع‌های اصلی کار من هستند.
 
 از ابزارهای هوش مصنوعی برای کمک به توسعه، بازبینی و مستندسازی استفاده می‌کنم. آماده همکاری در ساخت ابزارهای داخلی، داشبوردها و نرم‌افزارهای متناسب با نیاز کسب‌وکار هستم. پروژه‌های خصوصی در این صفحه فقط به‌صورت خلاصه معرفی شده‌اند؛ آمادگی بهره‌برداری و نتیجه آزمون هر پروژه باید جداگانه بررسی شود.
