@@ -1,53 +1,100 @@
+<div align="center">
+
 # Hi, I'm Masoud 👋
 
-### Software Developer · Persian Business Applications · AI-Assisted Development
+### Business workflows. Clear interfaces. Practical software.
 
-I build practical web applications around financial and operational workflows: construction feasibility, treasury documents, purchase requests, and AI-assisted chart review.
+Software Developer · Persian Business Applications
 
-My focus is turning detailed business rules into clear Persian interfaces, structured data, useful reports, and maintainable software. I use AI tools to support implementation, review, and documentation, with validation appropriate to each project.
+I build Persian web apps for finance, construction, and day-to-day operations.
 
-## Selected work
+[**Explore my work ↗**](https://github.com/msddipr1469/msddipr1469/blob/main/PORTFOLIO.md) · [**Discuss a project ↗**](https://github.com/msddipr1469/msddipr1469/issues)
 
-| Project | What it demonstrates | Availability |
-| --- | --- | --- |
-| [PayOrder](https://github.com/msddipr1469/PayOrder) | Persian payment/receipt documents, cash and cheque schedules, Jalali dates, timelines, printing, and browser-based archiving | Public source; standalone prototype |
-| Benayar / CT-Benayar | Construction cost and land scenarios, project finance, member permissions, reports, and backup workflows | Private source; pilot-oriented application |
-| [Payment.M](https://github.com/msddipr1469/Payment.M/tree/generic-local) | Treasury documents, invoices, archive workflows, plus an independent Windows home edition with its own business data | Private source; office and home editions |
-| OrderBridge | Multi-business purchase requests, scoped roles, order conversations, spreadsheet import/export, and backup workflows | Private source; office pilot |
-| [ProductCompare](https://github.com/msddipr1469/ProductCompare) | Catalogue ingestion, reviewable source references, local English OCR, product comparison, and spreadsheet reports | Private source; Windows home installer |
-| TradeMsd1469 | Chart-image input, server-side Gemini integration, visual annotations, position-sizing UI, and a local trading journal | Private source; educational prototype |
-
-Read the [project summaries and technical evidence](PORTFOLIO.md). Private projects are described at a high level; their source and operational data are not published here.
-
-## Technologies used across these repositories
-
-- **Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Persian RTL layouts, Jalali dates.
-- **Application services:** Node.js, Next.js API routes, Python/Django, PostgreSQL/PGlite, Supabase, and SQLite.
-- **Product workflows:** document printing, PDF text extraction, spreadsheet exchange, local drafts, backup and restore.
-- **Supporting tools:** Git, Docker configuration, Cloudflare Workers, and test suites in selected projects.
-- **AI integration:** Google Gemini API for an experimental chart-analysis interface.
-
-These are technologies represented in my projects, rather than a claim of equal expertise in every tool. Deployment status and validation vary by project.
-
-## Collaboration
-
-I'm interested in freelance and contract work involving:
-
-- Persian business dashboards and internal tools.
-- Financial document, reporting, and approval workflows.
-- Custom web applications and API integrations.
-- AI-assisted prototypes that can be evaluated against clear requirements.
-
-Areas I want to develop further include automation bots and data pipelines. They are future directions, not completed portfolio projects listed here.
-
-For a project inquiry, open an issue in this [profile repository](https://github.com/msddipr1469/msddipr1469/issues). Please keep confidential information out of public issues.
+</div>
 
 ---
 
-## معرفی فارسی
+## 🎯 What I build
 
-من مسعود هستم؛ توسعه‌دهنده نرم‌افزار با تمرکز بر وب‌اپلیکیشن‌های فارسی و فرایندهای مالی و عملیاتی کسب‌وکار. پروژه‌هایم شامل برآورد و تحلیل مالی ساخت‌وساز، دستور پرداخت و خزانه‌داری، درخواست خرید و سفارش‌گیری، و نمونه آموزشی بررسی نمودار با کمک هوش مصنوعی است.
+**Financial documents & reporting** · **Internal business tools** · **Persian RTL experiences**
 
-در کار روی این پروژه‌ها از TypeScript، JavaScript، React، Next.js، Node.js، Python/Django و پایگاه‌های داده استفاده کرده‌ام. مقایسه‌گر کالا و کاتالوگ و نسخه مستقل دستور پرداخت، راهنمای نصب محلی در ویندوز دارند؛ سورس آن‌ها خصوصی است. رابط راست‌به‌چپ، تاریخ شمسی، گزارش چاپی، ورود و خروج اطلاعات و قواعد دسترسی از موضوع‌های اصلی کار من هستند.
+From Jalali dates and cash/cheque schedules to access controls, print layouts, and backup workflows. I use AI tools to support development, review, and documentation.
 
-از ابزارهای هوش مصنوعی برای کمک به توسعه، بازبینی و مستندسازی استفاده می‌کنم. آماده همکاری در ساخت ابزارهای داخلی، داشبوردها و نرم‌افزارهای متناسب با نیاز کسب‌وکار هستم. پروژه‌های خصوصی در این صفحه فقط به‌صورت خلاصه معرفی شده‌اند؛ آمادگی بهره‌برداری و نتیجه آزمون هر پروژه باید جداگانه بررسی شود.
+## 🚀 Selected projects
+
+### 🧾 [PayOrder ↗](https://github.com/msddipr1469/PayOrder)
+Persian payment and receipt documents with installment schedules, timelines, printing, and local archiving.
+
+`HTML` `JavaScript` `Jalali dates` · **Public source · Browser prototype**
+
+### 🏗️ Benayar / CT-Benayar
+Construction and land scenarios, project finance, member access, and reports.
+
+`Next.js` `React` `TypeScript` · **Private source · Pilot application**
+
+### 🔄 OrderBridge
+Purchase requests, role-based workflows, order conversations, and spreadsheet exchange.
+
+`Next.js` `TypeScript` `PostgreSQL / PGlite` · **Private source · Office pilot**
+
+### 🔎 ProductCompare
+Catalogue ingestion, reviewable sources, local English OCR, and product-comparison reports.
+
+`Python` `Django` `PostgreSQL` · **Private source · Local Windows application**
+
+<details>
+<summary><b>＋ More projects</b></summary>
+
+- **🗂️ Payment.M** — Treasury documents, invoices, and archives; office and independent Windows home editions. **Private source.**
+- **📈 TradeMsd1469** — Chart-image review, Gemini integration, annotations, and a local journal. **Private source · Educational prototype.**
+
+</details>
+
+[**Project details, evidence & limitations →**](https://github.com/msddipr1469/msddipr1469/blob/main/PORTFOLIO.md)
+
+Private projects are shown as summaries. Prototype and pilot status does not imply production readiness.
+
+## 🛠️ Technologies in my projects
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="38" height="38" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+</p>
+
+**UI** — TypeScript · JavaScript · React · Next.js · Tailwind CSS  
+**Services & data** — Node.js · Python/Django · PostgreSQL/PGlite · SQLite · Supabase  
+**Tools & integrations** — Git · Docker configuration · Cloudflare Workers · Gemini API
+
+Tools used across my projects; depth of experience varies by technology.
+
+---
+
+<div dir="rtl" align="right">
+
+### سلام، من مسعودم 👋
+
+وب‌اپلیکیشن‌های فارسی برای فرایندهای مالی و عملیاتی می‌سازم؛ با تمرکز بر رابط روشن، گزارش کاربردی و قواعد کسب‌وکار.
+
+برای همکاری پروژه‌ای در ساخت **ابزارهای داخلی، داشبوردها و گردش‌کارهای مالی** آماده‌ام.
+
+</div>
+
+<div align="center">
+
+### 🤝 Have a workflow worth simplifying?
+
+[**Let's discuss your project →**](https://github.com/msddipr1469/msddipr1469/issues)
+
+Please keep confidential information out of public issues.
+
+</div>
+
