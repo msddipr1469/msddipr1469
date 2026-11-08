@@ -22,10 +22,10 @@ From Jalali dates and cash/cheque schedules to access controls, print layouts, a
 
 ## 🚀 Selected projects
 
-### 🧾 [PayOrder ↗](https://github.com/msddipr1469/PayOrder)
+### 🧾 PayOrder
 Persian payment and receipt documents with installment schedules, timelines, printing, and local archiving.
 
-`HTML` `JavaScript` `Jalali dates` · **Public source · Browser prototype**
+`HTML` `JavaScript` `Jalali dates` · **Browser prototype · Source link currently unavailable**
 
 ### 🏗️ Benayar / CT-Benayar
 Construction and land scenarios, project finance, member access, and reports.
