@@ -1,14 +1,14 @@
 # Portfolio — Masoud
 
-Repository review date: 2026-10-29. These summaries describe source and documentation inspected at that date. They are not independent security, deployment, or performance certifications.
+Source review date: 2026-10-29; repository availability rechecked on 2026-11-08. These summaries are not independent security, deployment, or performance certifications.
 
-## PayOrder — public treasury prototype
+## PayOrder — treasury browser prototype
 
 **Problem:** Preparing Persian payment and receipt documents with mixed cash and cheque commitments.
 
 **Implementation:** A standalone HTML/CSS/JavaScript application with Jalali date utilities, installment scheduling, document timelines, print layouts, local archives, and JSON backup exchange. PDF.js and Tesseract.js integrations are included for document input.
 
-**Evidence:** [Source](https://github.com/msddipr1469/PayOrder/blob/main/index.html) and [demo instructions](https://github.com/msddipr1469/PayOrder#readme). Functions include `renderScheduleInputs`, `runRecalculate`, `saveCurrentOrder`, and `exportBackup`.
+**Evidence:** The source and README were inspected on 2026-10-29. Functions include `renderScheduleInputs`, `runRecalculate`, `saveCurrentOrder`, and `exportBackup`. The former repository URL was unavailable during the 2026-11-08 recheck, so it is not presented as a current public source or live demo.
 
 **Limits:** Browser localStorage retains at most 80 records on save. There is no server authentication or shared database. Extraction accuracy and calculations require separate validation. Use synthetic records for a portfolio demo.
 
